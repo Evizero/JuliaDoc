@@ -1,5 +1,9 @@
 @import url("css/theme.css");
 
+.wy-side-nav-search > a {
+    color: #b3b3b3;
+}
+
 .wy-nav-content,
 .wy-nav-content-wrap {
     color: #222;
